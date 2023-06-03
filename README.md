@@ -1,4 +1,4 @@
-## Oii! Eu sou o Bruno Tavares 
+## Olá! Eu sou o Bruno Tavares 
 <div>
     <a href="https://github.com/brunobtavares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobtavares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
